@@ -1,3 +1,5 @@
+EL ARCHIVO DE EXCEL ESTA EN PORTFOLIO1
+
 ### Análisis de Datos y Creación de Dashboards ###
 ### Herramientas Utilizadas: Excel
 ### Contexto de la Simulación: Se me dio una base de datos con 1000 mediciones de una máquina de inspección de pasta de soldadura, las instrucciones fueron:
