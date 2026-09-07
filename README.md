@@ -51,3 +51,9 @@ Para que el riesgo de que un lote sea rechazado por completo se vuelva inaceptab
 de 1.33
 
 <img width="638" height="406" alt="image" src="https://github.com/user-attachments/assets/3806f3e9-0d75-43ed-a64d-92cf40a0b81c" />
+
+
+además, al final agregué un dashboard interactivo para ver los KPIs
+
+<img width="1764" height="938" alt="image" src="https://github.com/user-attachments/assets/87a2d0fb-eef3-47c6-900e-171d3d88a022" />
+
